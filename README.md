@@ -1,115 +1,119 @@
-# Digital Literacy Portfolio
-## CSE0001 – Digital Literacy Project
+# CSE0001 – Digital Literacy Project
+### Digital Literacy Portfolio | VIT Bhopal University
+
+---
 
 **Name:** Baddeti Bhanu Prathap  
 **Registration Number:** 25MIM10059  
-**Course:** Integrated M.Tech in Artificial Intelligence  
+**Branch:** Integrated M.Tech in Artificial Intelligence  
 **Year:** First Year  
-**University:** VIT Bhopal University  
+**Course:** CSE0001 – Digital Literacy  
+**Institution:** VIT Bhopal University  
 
 ---
 
-# Project Overview
-This Digital Literacy Portfolio was created as part of the CSE0001 Digital Literacy course. The objective of this project is to develop essential digital skills required for academic, professional, and online communication environments.
+## Project Overview
 
-This project includes tasks related to digital awareness, professional online presence, coding platforms, email etiquette, and cybercrime awareness. All tasks are organized in this repository as required in the project guidelines.
+As part of the CSE0001 Digital Literacy course, I was assigned the role of a **Student Digital Ambassador**. This repository is my complete Digital Literacy Portfolio, built across five tasks that each map to one module of the course.
 
-This project helped me understand how to use digital tools responsibly, create professional profiles, communicate formally through email, and stay safe from cyber threats.
+The goal of this project was to move beyond theory and actively apply digital literacy skills — from building a professional online presence, to communicating responsibly, to understanding online threats. Everything documented here reflects my own work and learning.
 
 ---
 
-# Repository Structure
+## Repository Structure
+
 ```
 digital-literacy-project/
 │
 ├── README.md
-│
 ├── report/
-│   └── Project_Report.pdf
+│   └── Project_Report_Bhanu_Prathap.docx
 │
 ├── task-1-presentation/
-│   └── infographic.png
+│   └── Infographic image
 │
 ├── task-2-portfolio/
-│   └── profile-screenshots.png
+│   └── [Profile screenshots + reflection notes]
 │
 ├── task-3-platforms/
-│   ├── coding-platform.png
-│   └── google-form.png
+│   └── [HackerRank screenshot + Google Form screenshot + response sheet]
 │
 ├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.txt
+│   ├── task4_emails_bhanu_prathap.pdf
+│   └── social_media_checklist_bhanu_prathap.pdf
 │
-├── task-5-cybercrime/
-│   ├── casestudy.txt
-│   └── prevention-checklist.txt
+└── task-5-cybercrime/
+    ├── casestudy_bhanu_prathap.pdf
+    └── prevention_checklist_bhanu_prathap.pdf
 ```
 
 ---
 
-# Task Summary
+## Module Summaries
 
-## Task 1 – Digital Literacy Awareness Infographic
-In this task, I created a Digital Literacy Awareness Infographic using Canva. The infographic explains what digital literacy is, safe internet practices, useful digital tools for students, and email etiquette. This task helped me understand the importance of digital awareness and online safety.
+### Task 1 – Digital Literacy Awareness Infographic
 
----
+Created a one-page infographic using **Canva** covering three key topics: what digital literacy is, safe internet practices, and maintaining a professional online presence. Designed to be simple and readable for first-year students with no prior exposure to these concepts.
 
-## Task 2 – Student Digital Portfolio
-In this task, I created professional accounts on platforms such as GitHub, LinkedIn, and coding platforms. These platforms help in building a professional online presence, showcasing projects, networking with professionals, and preparing for internships and placements.
-
-**Platforms Created:**
-- GitHub
-- LinkedIn
-- HackerRank / CodeChef
+📁 `task-1-presentation/`
 
 ---
 
-## Task 3 – Coding & Collaboration Platforms
-In this task, I explored coding practice platforms and completed a beginner-level coding challenge. I also created a Google Form quiz related to Digital Literacy Awareness and connected it to Google Sheets to collect responses.
+### Task 2 – Student Digital Portfolio
 
-This task helped me understand collaboration tools and coding practice platforms.
+Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub profile README with my name, branch, year, and learning goals. Updated the LinkedIn Education section with my current degree and institution.
 
-**Google Form Link:** Paste your Google Form link here
+📁 `task-2-portfolio/`
 
----
-
-## Task 4 – Email Etiquette & Social Media Checklist
-In this task, I wrote two professional emails:
-1. Email to professor requesting assignment extension
-2. Email to internship coordinator for internship opportunity
-
-I also created a Social Media Do’s and Don’ts checklist for responsible online behavior. This task helped me learn professional communication and email writing etiquette.
+🔗 **GitHub:** [github.com/baddeti25mim10059-cpu](https://github.com/baddeti25mim10059-cpu)  
+🔗 **LinkedIn:** [Bhanu Prathap Baddeti](https://www.linkedin.com/in/bhanu-prathap-baddeti-5734263bb/) 
 
 ---
 
-## Task 5 – Cybercrime Awareness Case Study
-In this task, I wrote a case study on cybercrime such as phishing, UPI fraud, identity theft, cyberbullying, or ransomware and created a prevention checklist for staying safe online.
+### Task 3 – Coding and Collaboration Platforms
 
-**Cyber Crime Reporting:**
-- National Cyber Crime Portal: https://cybercrime.gov.in
-- Helpline Number: 1930
+**Part A:** Created a HackerRank account and completed the beginner-level *Solve Me First* challenge.
 
----
+**Part B:** Built a 5-question Google Form titled *Digital Literacy Awareness Quiz* for batchmates, with multiple choice and short answer questions.
 
-# Conclusion
-This Digital Literacy Project helped me learn important digital skills such as creating professional profiles, using online collaboration tools, writing professional emails, understanding cybercrime, and practicing responsible digital behavior. These skills will help me in academics, internships, and my professional career.
+📁 `task-3-platforms/`
+
+🔗 **Digital Literacy Quiz:** [forms.gle/fMdErh5YpXbHXe6T9](https://forms.gle/fMdErh5YpXbHXe6T9)
 
 ---
 
-# Tools Used
-- Canva
-- GitHub
-- LinkedIn
-- Google Forms
-- HackerRank / CodeChef
-- Cyber Crime Portal
+### Task 4 – Professional Email and Etiquette Guide
+
+**Part A:** Wrote two professional emails — one requesting an assignment extension from a professor, and one expressing interest in a summer software development internship.
+
+**Part B:** Created a Social Media Do's and Don'ts checklist with 5 Do's and 5 Don'ts for responsible social media use as a college student.
+
+📁 `task-4-email-etiquette/`
 
 ---
 
-# Author
-**Baddeti Bhanu Prathap**  
-Integrated M.Tech in Artificial Intelligence  
-VIT Bhopal University  
-Registration Number: 25MIM10059
+### Task 5 – Cybercrime Awareness: Phishing
+
+**Part A:** Wrote a realistic fictional case study on **Phishing** — covering how it happens step by step, who gets targeted, and the consequences.
+
+**Part B:** Created a *Stay Safe Online* checklist with 10 actionable prevention tips for Indian college students, including 2 UPI-specific tips and official reporting channels.
+
+📁 `task-5-cybercrime/`
+
+---
+
+## Important Links
+
+| Resource | Link |
+|----------|------|
+| National Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
+| Cyber Crime Helpline | 1930 (24x7) |
+| Canva | [canva.com](https://canva.com) |
+| HackerRank | [hackerrank.com](https://hackerrank.com) |
+| Google Forms | [forms.google.com](https://forms.google.com) |
+
+---
+
+---
+
+*Submitted via VITyarthi portal | CSE0001 – Digital Literacy | VIT Bhopal University*
